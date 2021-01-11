@@ -1,4 +1,4 @@
-# Getting and cleaning data project
+# Getting and cleaning data in R project
 
 **This is a week 4 programming assignment in Getting and Cleaning Data course, Data Sceince Specialization, Johns Hopkins University, Coursera**
 
