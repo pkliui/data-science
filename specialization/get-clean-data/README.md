@@ -4,4 +4,4 @@ The purpose of this project is to demonstrate one's ability to collect, work wit
 
 Full data description [is here](https://github.com/pkliui/data-science/blob/master/specialization/get-clean-data/UCI%20HAR%20Dataset/README.txt)
 
-Code description in the [codebook] (https://github.com/pkliui/data-science/blob/master/specialization/get-clean-data/codebook.md)
+Code description in the [codebook](https://github.com/pkliui/data-science/blob/master/specialization/get-clean-data/codebook.md)
